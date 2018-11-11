@@ -1,5 +1,20 @@
-#header{
+#cookies{
 	height: 72px;
 	width: 2000px;
 	background-color: #194277;
+	font-family: ﻿Lato-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+	font-size: 14pt;
+	color: rgba(255, 255, 255, 255);
+	text-align: left;
+	margin: auto;
+}
+
+#header{
+	height: 800px;
+	width: 2000px;
+	background-color: #469dff;
+	font-family: ﻿Lato-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+	font-size: 14pt;
+	color: rgba(255, 255, 255, 255);
+	text-align: left;
 }
