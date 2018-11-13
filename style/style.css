@@ -16,5 +16,35 @@
 	font-family: ﻿Lato-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
 	font-size: 14pt;
 	color: rgba(255, 255, 255, 255);
-	text-align: left;
+	text-align: center;
+	padding-left: 500;
+}
+.button{
+		max-width: 112;
+
+	max-height: 30;
+	
+	font-family: ﻿Lato-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+	font-size: 22pt;
+	text-align: center;
+	}
+#about{
+	height: 405px;
+	width: 2000px;
+}
+#expert{
+	height: 1145px;
+	width: 2000px;
+}	
+#last_works{
+	height: 500px;
+	width: 2000px;
+}
+#clients{
+	height: 363px;
+	width: 2000px;
+}
+#ready{
+	height: 247px;
+	width: 2000px;
 }
