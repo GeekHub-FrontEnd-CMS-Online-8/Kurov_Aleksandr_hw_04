@@ -72,13 +72,97 @@
 }
 
 #header_text{
-	height: 90px;
-	width: 809px;
-	margin-left: 595px;
+font-size: 35pt;
+
+font-family: Lato, black, bold, sans-serif;
+
+height: 98px;
+
+width: 809px;
+
+margin-left: 595px;
+position:relative;
 }
 
 #header_desc{
 	height: 50px;
 	width: 765px;
 	margin-left: 618px;
+	margin-top:50px;
 }
+
+#hire{
+position: relative;
+margin-top: 55px;
+width: 204px;
+height: 55px;
+margin-left: 855px;
+text-align: center;
+background-image: url(../images/button.png);
+background-size: contain;
+color:#3695ff;
+
+}
+
+.text{
+position: absolute;
+
+top: 25%;
+
+left: 30%;
+}
+
+#arrow{
+background-image: url(../images/arrow.png);
+width: 19px;
+height: 32px;
+margin-left: 991px;
+margin-top: 60px;
+}
+
+#about_me{
+	height: 38px;
+	width: 210px;
+	position: relative;
+	margin-left: 895px;
+	margin-top: 100px;
+	font-family: ﻿Lato, Regular;
+	font-size: 31pt;
+	color: rgba(54, 119, 253, 255);
+	text-align: center;
+}
+
+#about_text{
+	height: 85px;
+	width: 1067px;
+	margin-left: 467px;
+	text-align: center;
+	margin-top: 100px;
+	font-family: ﻿Lato, Regular;
+	font-size: 16pt;
+	color: rgba(90, 90, 90, 255);
+}
+
+#expert_in{
+	height: 38px;
+	width: 210px;
+	position: relative;
+	margin-left: 895px;
+	margin-top: 100px;
+	font-family: ﻿Lato, Regular;
+	font-size: 31pt;
+	color: rgba(54, 119, 253, 255);
+	text-align: center;
+}
+
+#about_text{
+	height: 85px;
+	width: 1067px;
+	margin-left: 467px;
+	text-align: center;
+	margin-top: 100px;
+	font-family: ﻿Lato, Regular;
+	font-size: 16pt;
+	color: rgba(90, 90, 90, 255);
+}
+
