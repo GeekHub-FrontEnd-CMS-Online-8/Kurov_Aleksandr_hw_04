@@ -46,16 +46,18 @@
 	width: 2000px;
 }	
 #last_works{
-	height: 500px;
+	height: 950px;
 	width: 2000px;
 }
 #clients{
 	height: 363px;
 	width: 2000px;
+	background-color: #f1f8ff;
 }
 #ready{
 	height: 247px;
 	width: 2000px;
+	background-color: #469dff;
 }
 
 #circle{
@@ -295,4 +297,8 @@ margin-top: -269px;
 margin-left: 1249px;
 margin-top: -269px;
 	background-color: #f4f4f4;
+}
+
+#latest_two{
+	margin-top: 100px;
 }
