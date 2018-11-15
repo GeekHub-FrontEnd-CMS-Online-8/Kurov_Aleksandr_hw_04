@@ -250,3 +250,49 @@ margin-top: -340px;
 	color: rgba(90, 90, 90, 255);
 
 }
+
+.latest_h{
+	height: 45px;
+	width: 250px;
+	position: relative;
+	margin-left: 895px;
+	font-family: Lato, Regular;
+	font-size: 31pt;
+	color: rgba(54, 119, 253, 255);
+	text-align: center;
+	padding-top: 99px;
+
+}
+
+.latest_block1{
+	width: 359px;
+	height: 269px;
+	position: relative;
+	margin-left: 432px;
+	margin-top: 75px;
+	background-color: #f4f4f4;
+}
+
+.work_img1{
+	margin-left: 35px;
+
+margin-top: 26px;
+}
+
+.latest_block2{
+	width: 359px;
+	height: 269px;
+	background-color: #f4f4f4;
+margin-left: 840px;
+
+margin-top: -269px;
+
+}
+
+.latest_block3{
+	width: 359px;
+	height: 269px;
+margin-left: 1249px;
+margin-top: -269px;
+	background-color: #f4f4f4;
+}
