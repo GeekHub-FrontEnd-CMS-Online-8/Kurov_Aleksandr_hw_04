@@ -199,3 +199,46 @@ margin-top: -340px;
 #two{
 	margin-top: 100px;
 }
+.image1{
+	background-color: #dae2ea;
+	width: 142px;
+	height: 142px;
+	border-radius: 75px;
+	position: relative;
+}
+
+.image2{
+	background-color: #f1f8ff;
+	width: 135px;
+	height: 135px;
+	border-radius: 67px;
+	position: relative;
+	margin-left:4px;
+	padding-top:5px;
+
+}
+
+.icony{
+	background-image: url(../images/mobile.png);
+	background-size: contain;
+	height: 66px;
+	width: 45px;
+	margin-left: 45px;
+	margin-top: 25px;
+}
+
+.center-me {
+  margin: 0 auto;
+}
+
+.expert_h{
+	width: 232px;
+	height: 18px;
+	padding-left: 61px;
+	position: relative;
+	margin-top: 61px;
+}
+.expert_text{
+	margin-left: 25px;
+	margin-top: 25px;
+}
