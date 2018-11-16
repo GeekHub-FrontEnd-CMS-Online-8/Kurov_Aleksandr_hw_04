@@ -354,3 +354,52 @@ margin-top: -269px;
 	display:block;
 	background:#ff6600 url(rss32.png); /*иконка будет оранжевого цвета*/
 }
+
+.client{
+	height: 45px;
+	width: 250px;
+	position: relative;
+	margin-left: 895px;
+	font-family: Lato, Regular;
+	font-size: 31pt;
+	color: rgba(54, 119, 253, 255);
+	text-align: center;
+	padding-top: 99px;
+}
+
+.ms{
+	background-image: url(../images/MSFT.png);
+			height: 41px;
+	width: 192px;
+margin-left: 477px;
+position:relative;
+margin-top: 70px;
+
+}
+.sams{
+	background-image: url(../images/Samsung.png);
+			height: 28px;
+	width: 185px;
+margin-left: 761px;
+
+margin-top: -35px;
+
+}
+.ibm{
+	background-image: url(../images/ibm.png);
+			height: 52px;
+	width: 140px;
+margin-left: 1085px;
+
+margin-top: -45px;
+
+}
+.google{
+	background-image: url(../images/Google.png);
+			height: 56px;
+	width: 170px;
+margin-left: 1350px;
+
+margin-top: -50px;
+
+}
