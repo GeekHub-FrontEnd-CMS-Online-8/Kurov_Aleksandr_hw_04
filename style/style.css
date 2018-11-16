@@ -107,11 +107,9 @@ color:#3695ff;
 }
 
 .text{
-position: absolute;
-
-top: 25%;
-
-left: 30%;
+	position: absolute;
+	top: 25%;
+	left: 30%;
 }
 
 #arrow{
@@ -402,4 +400,42 @@ margin-left: 1350px;
 
 margin-top: -50px;
 
+}
+
+.need{
+font-family: Lato, Light, sans-serif;
+
+font-size: 30.32396pt;
+
+color: rgba(255, 255, 255, 255);
+
+text-align: left;
+
+margin-left: 415px;
+
+padding-top: 100px;
+}
+
+.text1{
+position: absolute;
+
+background-image: url(../images/button.png);
+
+background-size: contain;
+
+color: #3695ff;
+
+font-size: 18pt;
+
+width: 204px;
+
+height: 55px;
+
+text-align: center;
+
+line-height: 55px;
+
+margin-left: 849px;
+
+margin-top: -46px;
 }
